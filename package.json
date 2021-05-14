@@ -1,0 +1,12 @@
+{
+  "name": "read_excel_files",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "node ./src/index.js"
+  },
+  "dependencies": {
+    "convert-excel-to-json": "^1.7.0"
+  }
+}
